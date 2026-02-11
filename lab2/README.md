@@ -1,4 +1,6 @@
-This data set has the next available information:
+This data set is about comparing houses and their prices depending on the featurs of the house .
+
+And has the next available information:
 
 it is a -Regression- problem 
 
